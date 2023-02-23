@@ -1,0 +1,11 @@
+.miNombre{
+    display: flex;
+    width: 160px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nombre{
+    color: #464646;
+    font-weight: bold;
+}
