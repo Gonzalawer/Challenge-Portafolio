@@ -1,0 +1,7 @@
+.hobbies__caja{
+    background: #ffffff;
+    width: 176px;
+    height: 174px;
+    display: flex;
+    align-items: flex-end;
+}

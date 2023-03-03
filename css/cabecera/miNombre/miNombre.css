@@ -1,11 +1,12 @@
 .miNombre{
     display: flex;
-    width: 160px;
+    width: 150px;
     align-items: center;
     justify-content: space-between;
 }
 
 .nombre{
     color: #464646;
-    font-weight: 600;
+    font-size: 1rem;
+    font-weight: 700;
 }

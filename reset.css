@@ -1,5 +1,6 @@
 body {
     font-family: 'Raleway', sans-serif;
+    background: #E5E5E5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,4 +10,9 @@ h1, h2, h3, h4, h5, h6 {
 
 ul, li {
     padding: 0;
+}
+
+.contenedor{
+    width: 1440px;
+    margin: 0 auto;
 }
